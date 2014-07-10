@@ -104,7 +104,7 @@ textarea {
 }
 
 #headline {
-  background-image: url(http://i.imgur.com/aawsQEJ.png);
+  background-image: url("../headline.png");
   background-size: cover;
   padding: 8em;
   color: #111;
