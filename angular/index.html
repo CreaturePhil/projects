@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html lang="en" ng-app="store">
+  <head>
+    <meta charset="utf-8">
+    <title>Minecraft Kit Store</title>
+    <link rel="stylesheet" href="bootstrap.min.css">
+  </head>
+
+  <body ng-controller="StoreController as store">
+      <h3>
+        {{store.product.name}}
+        ${{store.product.price}}
+      </h3>
+    <script src="angular.min.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

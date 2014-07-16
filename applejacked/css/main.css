@@ -1,0 +1,20 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+
+.brand {
+  position: absolute;
+  color: #c0392b;
+  text-align: center;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  font-family: 'Lobster', cursive;
+}
+
+.price {
+  color: #AAA;
+  font-size: 12px;
+}
+
+.featured {
+  padding-left: 20px;
+}
